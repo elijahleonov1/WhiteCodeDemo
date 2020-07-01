@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c59da31326a0cfa7ad708a7b8776687a",
+    "revision": "8b7bd0822d5e006e71e9bb536551682a",
     "url": "/WhiteCodeDemo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WhiteCodeDemo/static/css/2.c27a359e.chunk.css"
   },
   {
-    "revision": "3357168ea237893b16f3",
+    "revision": "edb32c54f880ac0adb0f",
     "url": "/WhiteCodeDemo/static/css/main.a218234f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WhiteCodeDemo/static/js/2.d3f00a6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3357168ea237893b16f3",
-    "url": "/WhiteCodeDemo/static/js/main.be299278.chunk.js"
+    "revision": "edb32c54f880ac0adb0f",
+    "url": "/WhiteCodeDemo/static/js/main.44ea0fdc.chunk.js"
   },
   {
     "revision": "95910fa5c3b39c5346c2",
