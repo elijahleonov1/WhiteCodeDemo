@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WhiteCodeDemo/static/css/main.a218234f.chunk.css",
+    "main.js": "/WhiteCodeDemo/static/js/main.be299278.chunk.js",
+    "main.js.map": "/WhiteCodeDemo/static/js/main.be299278.chunk.js.map",
+    "runtime-main.js": "/WhiteCodeDemo/static/js/runtime-main.b1127760.js",
+    "runtime-main.js.map": "/WhiteCodeDemo/static/js/runtime-main.b1127760.js.map",
+    "static/css/2.c27a359e.chunk.css": "/WhiteCodeDemo/static/css/2.c27a359e.chunk.css",
+    "static/js/2.d3f00a6e.chunk.js": "/WhiteCodeDemo/static/js/2.d3f00a6e.chunk.js",
+    "static/js/2.d3f00a6e.chunk.js.map": "/WhiteCodeDemo/static/js/2.d3f00a6e.chunk.js.map",
+    "index.html": "/WhiteCodeDemo/index.html",
+    "precache-manifest.e7f1eadc32b85687f4b9fb55978186cd.js": "/WhiteCodeDemo/precache-manifest.e7f1eadc32b85687f4b9fb55978186cd.js",
+    "service-worker.js": "/WhiteCodeDemo/service-worker.js",
+    "static/css/2.c27a359e.chunk.css.map": "/WhiteCodeDemo/static/css/2.c27a359e.chunk.css.map",
+    "static/css/main.a218234f.chunk.css.map": "/WhiteCodeDemo/static/css/main.a218234f.chunk.css.map",
+    "static/js/2.d3f00a6e.chunk.js.LICENSE.txt": "/WhiteCodeDemo/static/js/2.d3f00a6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1127760.js",
+    "static/css/2.c27a359e.chunk.css",
+    "static/js/2.d3f00a6e.chunk.js",
+    "static/css/main.a218234f.chunk.css",
+    "static/js/main.be299278.chunk.js"
+  ]
+}
